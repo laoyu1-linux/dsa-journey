@@ -1,9 +1,8 @@
-# 老余的 DSA Journey
+---
+layout: home
+title: 首页
+---
 
 欢迎来到我的算法刷题博客！
 
-## 我的文章
-
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }})
-{% endfor %}
+这里记录我的每一道题、每一个坑、每一次顿悟。
