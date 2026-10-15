@@ -15,7 +15,7 @@ categories: algorithm
 
 ## 代码实现
 
-```python
+``` python
 def second_largest(nums):
     max1 = max2 = float('-inf')
     for n in nums:
